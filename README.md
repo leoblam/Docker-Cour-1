@@ -1,6 +1,6 @@
 # Commandes docker pour la mise en réseau de trois container
 
-Ci dessous voici le procédé pour rendre opérationnel trois containers et les mettre en réseaux en utilisant un volume et un script d'update et d'installation de softs, via une image custom.
+Ci dessous voici le procédé pour rendre opérationnel trois containers, les mettre en réseaux, utilisant un volume, un script d'update et d'installation de softs, via une image custom.
 
 
 ### docker pull ubuntu:latest
