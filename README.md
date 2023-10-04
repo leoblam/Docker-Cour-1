@@ -73,4 +73,7 @@ apt update -y && apt upgrade -y && apt install net-tools -y && apt install iputi
  - ctrl+D : Coupe un container
 - :wq : ferme et enregistre un fichier dans vim
 - :q! : ferme un fichier sans l'enregistrer dans vim
-- 
+
+  ## commande utiles :
+  ### docker cp F:\DEV\script.sh ct1:home/script.sh
+  - Ici on **copie** un fichier depuis le repertoire **f:\Dev** de mon windows au repertoire **home** de mon **container** *ct1* via le patern **<container>:<chemin ou je veux le coller>**
